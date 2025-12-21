@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\Desktop\\ExInfo_6TTI_Nathan\\6TTI_Travaux_Nathan\\.Devoir - Exercice\\ExerciceVari\u00E9e1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C619E-6060-4B6A-8E46-6DDB0F2DA8B4}|ExerciceVari\u00E9e1.csproj|c:\\users\\natha\\desktop\\exinfo_6tti_nathan\\6tti_travaux_nathan\\.devoir - exercice\\exercicevari\u00E9e1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C619E-6060-4B6A-8E46-6DDB0F2DA8B4}|ExerciceVari\u00E9e1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C619E-6060-4B6A-8E46-6DDB0F2DA8B4}|ExerciceVari\u00E9e1.csproj|c:\\users\\natha\\desktop\\exinfo_6tti_nathan\\6tti_travaux_nathan\\.devoir - exercice\\exercicevari\u00E9e1\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C619E-6060-4B6A-8E46-6DDB0F2DA8B4}|ExerciceVari\u00E9e1.csproj|solutionrelative:cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cercle.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\Desktop\\ExInfo_6TTI_Nathan\\6TTI_Travaux_Nathan\\.Devoir - Exercice\\ExerciceVari\u00E9e1\\Cercle.cs",
+              "RelativeDocumentMoniker": "Cercle.cs",
+              "ToolTip": "C:\\Users\\natha\\Desktop\\ExInfo_6TTI_Nathan\\6TTI_Travaux_Nathan\\.Devoir - Exercice\\ExerciceVari\u00E9e1\\Cercle.cs",
+              "RelativeToolTip": "Cercle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:20:46.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\Desktop\\ExInfo_6TTI_Nathan\\6TTI_Travaux_Nathan\\.Devoir - Exercice\\ExerciceVari\u00E9e1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\natha\\Desktop\\ExInfo_6TTI_Nathan\\6TTI_Travaux_Nathan\\.Devoir - Exercice\\ExerciceVari\u00E9e1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:10:15.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
