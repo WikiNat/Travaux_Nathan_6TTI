@@ -1,0 +1,15 @@
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\bin\Debug\net8.0\ExerciceVariéeComplexe.exe
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\bin\Debug\net8.0\ExerciceVariéeComplexe.deps.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\bin\Debug\net8.0\ExerciceVariéeComplexe.runtimeconfig.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\bin\Debug\net8.0\ExerciceVariéeComplexe.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\bin\Debug\net8.0\ExerciceVariéeComplexe.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\obj\Debug\net8.0\ExerciceVariéeComplexe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\obj\Debug\net8.0\ExerciceVariéeComplexe.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\obj\Debug\net8.0\ExerciceVariéeComplexe.AssemblyInfo.cs
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\obj\Debug\net8.0\ExerciceVariéeComplexe.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\obj\Debug\net8.0\ExerciceVariéeComplexe.sourcelink.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\obj\Debug\net8.0\ExerciceVariéeComplexe.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\obj\Debug\net8.0\refint\ExerciceVariéeComplexe.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\obj\Debug\net8.0\ExerciceVariéeComplexe.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\obj\Debug\net8.0\ExerciceVariéeComplexe.genruntimeconfig.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExerciceVariéeComplexe\obj\Debug\net8.0\ref\ExerciceVariéeComplexe.dll
