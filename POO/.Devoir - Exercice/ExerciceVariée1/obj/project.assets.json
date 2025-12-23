@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natha\\Desktop\\ExInfo_6TTI_Nathan\\6TTI_Travaux_Nathan\\.Devoir - Exercice\\ExerciceVariée1\\ExerciceVariée1.csproj",
+      "projectUniqueName": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExerciceVariée1\\ExerciceVariée1.csproj",
       "projectName": "ExerciceVariée1",
-      "projectPath": "C:\\Users\\natha\\Desktop\\ExInfo_6TTI_Nathan\\6TTI_Travaux_Nathan\\.Devoir - Exercice\\ExerciceVariée1\\ExerciceVariée1.csproj",
+      "projectPath": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExerciceVariée1\\ExerciceVariée1.csproj",
       "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natha\\Desktop\\ExInfo_6TTI_Nathan\\6TTI_Travaux_Nathan\\.Devoir - Exercice\\ExerciceVariée1\\obj\\",
+      "outputPath": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExerciceVariée1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
