@@ -1,0 +1,15 @@
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\bin\Debug\net8.0\Lampe.exe
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\bin\Debug\net8.0\Lampe.deps.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\bin\Debug\net8.0\Lampe.runtimeconfig.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\bin\Debug\net8.0\Lampe.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\bin\Debug\net8.0\Lampe.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\obj\Debug\net8.0\Lampe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\obj\Debug\net8.0\Lampe.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\obj\Debug\net8.0\Lampe.AssemblyInfo.cs
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\obj\Debug\net8.0\Lampe.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\obj\Debug\net8.0\Lampe.sourcelink.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\obj\Debug\net8.0\Lampe.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\obj\Debug\net8.0\refint\Lampe.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\obj\Debug\net8.0\Lampe.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\obj\Debug\net8.0\Lampe.genruntimeconfig.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\Lampe\obj\Debug\net8.0\ref\Lampe.dll

@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\Lampe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CB7893-00FE-4091-8EC6-976F6E5E86BC}|Lampe.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\lampe\\lampes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CB7893-00FE-4091-8EC6-976F6E5E86BC}|Lampe.csproj|solutionrelative:lampes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CB7893-00FE-4091-8EC6-976F6E5E86BC}|Lampe.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\lampe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CB7893-00FE-4091-8EC6-976F6E5E86BC}|Lampe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lampes.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\Lampe\\Lampes.cs",
+              "RelativeDocumentMoniker": "Lampes.cs",
+              "ToolTip": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\Lampe\\Lampes.cs",
+              "RelativeToolTip": "Lampes.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T14:01:03.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\Lampe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\Lampe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T14:00:28.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
