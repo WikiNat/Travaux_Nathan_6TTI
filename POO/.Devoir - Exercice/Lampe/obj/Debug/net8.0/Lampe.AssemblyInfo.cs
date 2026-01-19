@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lampe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd445587053ef566049a5fcb3d9b172162260704")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81343b1a10fa38a50eb35dbc7a63b48c4777565a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lampe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lampe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExerciceSupp2_Nathan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72F8C7CD-E151-4061-8C4A-74D9946561C4}|ExerciceSupp2_Nathan.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exercicesupp2_nathan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F8C7CD-E151-4061-8C4A-74D9946561C4}|ExerciceSupp2_Nathan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F8C7CD-E151-4061-8C4A-74D9946561C4}|ExerciceSupp2_Nathan.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exercicesupp2_nathan\\aliment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F8C7CD-E151-4061-8C4A-74D9946561C4}|ExerciceSupp2_Nathan.csproj|solutionrelative:aliment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aliment.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExerciceSupp2_Nathan\\Aliment.cs",
+              "RelativeDocumentMoniker": "Aliment.cs",
+              "ToolTip": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExerciceSupp2_Nathan\\Aliment.cs",
+              "RelativeToolTip": "Aliment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:56:06.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExerciceSupp2_Nathan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExerciceSupp2_Nathan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:55:28.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
