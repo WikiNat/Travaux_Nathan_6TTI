@@ -1,0 +1,15 @@
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\bin\Debug\net8.0\POO_bibliothèque_Nathan.exe
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\bin\Debug\net8.0\POO_bibliothèque_Nathan.deps.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\bin\Debug\net8.0\POO_bibliothèque_Nathan.runtimeconfig.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\bin\Debug\net8.0\POO_bibliothèque_Nathan.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\bin\Debug\net8.0\POO_bibliothèque_Nathan.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\obj\Debug\net8.0\POO_bibliothèque_Nathan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\obj\Debug\net8.0\POO_bibliothèque_Nathan.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\obj\Debug\net8.0\POO_bibliothèque_Nathan.AssemblyInfo.cs
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\obj\Debug\net8.0\POO_bibliothèque_Nathan.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\obj\Debug\net8.0\POO_bibliothèque_Nathan.sourcelink.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\obj\Debug\net8.0\POO_bibliothèque_Nathan.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\obj\Debug\net8.0\refint\POO_bibliothèque_Nathan.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\obj\Debug\net8.0\POO_bibliothèque_Nathan.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\obj\Debug\net8.0\POO_bibliothèque_Nathan.genruntimeconfig.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\POO_bibliothèque_Nathan\obj\Debug\net8.0\ref\POO_bibliothèque_Nathan.dll
