@@ -35,16 +35,34 @@ namespace POO_bibliothèque_Nathan
 				}
 			}
 		}
-		public string inventaire()
+		public void supprimer(string titreASupprimer)
+		{
+			for (int i = 0; i < _listBb.Count; i++)
+			{
+				if (_listBb[i].Titre == titreASupprimer)
+				{
+					_listBb.RemoveAt(i);
+					break;
+				}
+			}
+        }
+        public string inventaire()
 		{
 			string monInventaire = "";
-
 			for (int i = 0;i < _listBb.Count ;i++)
 			{
 				monInventaire += _listBb[i].description() + "\n";
-
 			}
 			return monInventaire;
 		}
-	}
+		public string afficherLivre()
+		{
+			string livres = "";
+			foreach (var livre in _listBb)
+			{
+				livres += livre.description() + "\n";
+			}
+			return livres;
+		}
+    }
 }

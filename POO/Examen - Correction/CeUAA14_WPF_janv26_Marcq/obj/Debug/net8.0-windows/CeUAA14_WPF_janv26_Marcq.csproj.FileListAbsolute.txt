@@ -1,0 +1,41 @@
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\App.g.cs
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq_MarkupCompile.cache
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq_MarkupCompile.lref
+H:\CeUAA14_WPF_janv26_Marcq\bin\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.exe
+H:\CeUAA14_WPF_janv26_Marcq\bin\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.deps.json
+H:\CeUAA14_WPF_janv26_Marcq\bin\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.runtimeconfig.json
+H:\CeUAA14_WPF_janv26_Marcq\bin\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.dll
+H:\CeUAA14_WPF_janv26_Marcq\bin\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.pdb
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\MainWindow.baml
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.g.resources
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.GeneratedMSBuildEditorConfig.editorconfig
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.AssemblyInfoInputs.cache
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.AssemblyInfo.cs
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.csproj.CoreCompileInputs.cache
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.dll
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\refint\CeUAA14_WPF_janv26_Marcq.dll
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.pdb
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.genruntimeconfig.cache
+H:\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\ref\CeUAA14_WPF_janv26_Marcq.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\bin\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.exe
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\bin\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.deps.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\bin\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.runtimeconfig.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\bin\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\bin\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq_MarkupCompile.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq_MarkupCompile.lref
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.g.resources
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.AssemblyInfo.cs
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.sourcelink.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\refint\CeUAA14_WPF_janv26_Marcq.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\CeUAA14_WPF_janv26_Marcq.genruntimeconfig.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\Examen - Correction\CeUAA14_WPF_janv26_Marcq\obj\Debug\net8.0-windows\ref\CeUAA14_WPF_janv26_Marcq.dll
