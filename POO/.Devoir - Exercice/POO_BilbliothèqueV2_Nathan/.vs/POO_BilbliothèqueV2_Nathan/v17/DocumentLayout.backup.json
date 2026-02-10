@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\POO_Bilblioth\u00E8queV2_Nathan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BEE9EB9-0A46-43FE-A840-F3365073A229}|POO_Bilblioth\u00E8queV2_Nathan.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\poo_bilblioth\u00E8quev2_nathan\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BEE9EB9-0A46-43FE-A840-F3365073A229}|POO_Bilblioth\u00E8queV2_Nathan.csproj|solutionrelative:livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BEE9EB9-0A46-43FE-A840-F3365073A229}|POO_Bilblioth\u00E8queV2_Nathan.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\poo_bilblioth\u00E8quev2_nathan\\emprunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEE9EB9-0A46-43FE-A840-F3365073A229}|POO_Bilblioth\u00E8queV2_Nathan.csproj|solutionrelative:emprunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BEE9EB9-0A46-43FE-A840-F3365073A229}|POO_Bilblioth\u00E8queV2_Nathan.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\poo_bilblioth\u00E8quev2_nathan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3BEE9EB9-0A46-43FE-A840-F3365073A229}|POO_Bilblioth\u00E8queV2_Nathan.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\poo_bilblioth\u00E8quev2_nathan\\biblioth\u00E8que.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BEE9EB9-0A46-43FE-A840-F3365073A229}|POO_Bilblioth\u00E8queV2_Nathan.csproj|solutionrelative:biblioth\u00E8que.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEE9EB9-0A46-43FE-A840-F3365073A229}|POO_Bilblioth\u00E8queV2_Nathan.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\poo_bilblioth\u00E8quev2_nathan\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEE9EB9-0A46-43FE-A840-F3365073A229}|POO_Bilblioth\u00E8queV2_Nathan.csproj|solutionrelative:livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Emprunter.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\POO_Bilblioth\u00E8queV2_Nathan\\Emprunter.cs",
+              "RelativeDocumentMoniker": "Emprunter.cs",
+              "ToolTip": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\POO_Bilblioth\u00E8queV2_Nathan\\Emprunter.cs",
+              "RelativeToolTip": "Emprunter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:32:02.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Livre.cs",
               "DocumentMoniker": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\POO_Bilblioth\u00E8queV2_Nathan\\Livre.cs",
               "RelativeDocumentMoniker": "Livre.cs",
-              "ToolTip": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\POO_Bilblioth\u00E8queV2_Nathan\\Livre.cs*",
-              "RelativeToolTip": "Livre.cs*",
-              "ViewState": "AgIAACoAAAAAAAAAAAAiwFYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\POO_Bilblioth\u00E8queV2_Nathan\\Livre.cs",
+              "RelativeToolTip": "Livre.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T08:47:59.892Z",
               "EditorCaption": ""
@@ -47,7 +64,8 @@
               "RelativeToolTip": "Biblioth\u00E8que.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T08:47:34.464Z"
+              "WhenOpened": "2026-02-04T08:47:34.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,7 +75,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\POO_Bilblioth\u00E8queV2_Nathan\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T08:44:54.404Z",
               "EditorCaption": ""

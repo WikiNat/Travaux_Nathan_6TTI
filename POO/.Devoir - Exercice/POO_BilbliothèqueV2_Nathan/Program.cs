@@ -53,6 +53,11 @@
                         Console.WriteLine("Afficher l'inventaire :\n");
                         Console.WriteLine(biblio.inventaire());
                         break;
+                    case "E":
+                        Console.WriteLine("Qu'elle livre vous voulez emprunter");
+                        Console.WriteLine(biblio.inventaire());
+                        Console.ReadLine();
+                        return;
                 }
                 Console.WriteLine("Voulez vous recommencer ? (o/n)");
                 recommencer = Console.ReadLine();
