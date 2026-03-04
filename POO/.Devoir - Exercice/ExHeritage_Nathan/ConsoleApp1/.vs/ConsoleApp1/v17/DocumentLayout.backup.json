@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExHeritage_Nathan\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|ConsoleApp1.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exheritage_nathan\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|LesAnimaux.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exheritage_nathan\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|LesAnimaux.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|ConsoleApp1.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exheritage_nathan\\consoleapp1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|ConsoleApp1.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|LesAnimaux.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exheritage_nathan\\consoleapp1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|LesAnimaux.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|ConsoleApp1.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exheritage_nathan\\consoleapp1\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|ConsoleApp1.csproj|solutionrelative:chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|LesAnimaux.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exheritage_nathan\\consoleapp1\\lapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|LesAnimaux.csproj|solutionrelative:lapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|ConsoleApp1.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exheritage_nathan\\consoleapp1\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|ConsoleApp1.csproj|solutionrelative:chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|LesAnimaux.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exheritage_nathan\\consoleapp1\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|LesAnimaux.csproj|solutionrelative:chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|ConsoleApp1.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exheritage_nathan\\consoleapp1\\lapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|ConsoleApp1.csproj|solutionrelative:lapin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|LesAnimaux.csproj|c:\\users\\natha\\documents\\.important_exercice\\travaux_nathan_6tti\\poo\\.devoir - exercice\\exheritage_nathan\\consoleapp1\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7944920C-5B9E-43A8-A37E-3BAE1D5518A0}|LesAnimaux.csproj|solutionrelative:chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,12 +42,11 @@
               "RelativeToolTip": "Animal.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAABRwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T08:12:23.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T08:12:23.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Lapin.cs",
               "DocumentMoniker": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExHeritage_Nathan\\ConsoleApp1\\Lapin.cs",
               "RelativeDocumentMoniker": "Lapin.cs",
@@ -55,12 +54,11 @@
               "RelativeToolTip": "Lapin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T08:12:12.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T08:12:12.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Chat.cs",
               "DocumentMoniker": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExHeritage_Nathan\\ConsoleApp1\\Chat.cs",
               "RelativeDocumentMoniker": "Chat.cs",
@@ -68,12 +66,11 @@
               "RelativeToolTip": "Chat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T08:12:00.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T08:12:00.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Chien.cs",
               "DocumentMoniker": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExHeritage_Nathan\\ConsoleApp1\\Chien.cs",
               "RelativeDocumentMoniker": "Chien.cs",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "Chien.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T08:11:38.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T08:11:38.892Z"
             },
             {
               "$type": "Document",
@@ -92,7 +88,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\natha\\Documents\\.IMPORTANT_EXERCICE\\Travaux_Nathan_6TTI\\POO\\.Devoir - Exercice\\ExHeritage_Nathan\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T08:10:51.226Z",
               "EditorCaption": ""

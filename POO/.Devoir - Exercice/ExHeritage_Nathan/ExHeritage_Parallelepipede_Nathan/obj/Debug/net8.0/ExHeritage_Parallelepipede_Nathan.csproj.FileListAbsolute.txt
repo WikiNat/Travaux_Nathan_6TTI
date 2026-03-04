@@ -1,0 +1,15 @@
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\bin\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.exe
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\bin\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.deps.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\bin\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.runtimeconfig.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\bin\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\bin\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\obj\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\obj\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\obj\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.AssemblyInfo.cs
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\obj\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\obj\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.sourcelink.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\obj\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\obj\Debug\net8.0\refint\ExHeritage_Parallelepipede_Nathan.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\obj\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\obj\Debug\net8.0\ExHeritage_Parallelepipede_Nathan.genruntimeconfig.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage_Parallelepipede_Nathan\obj\Debug\net8.0\ref\ExHeritage_Parallelepipede_Nathan.dll
