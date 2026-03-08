@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExHeritage_Parallelepipede_Nathan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9627dedc18cc1e95ba545c56ee0de4d74ca6142a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f1dfc241ce1b1fe3c6eefe4feb0a67998abb26")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExHeritage_Parallelepipede_Nathan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExHeritage_Parallelepipede_Nathan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
