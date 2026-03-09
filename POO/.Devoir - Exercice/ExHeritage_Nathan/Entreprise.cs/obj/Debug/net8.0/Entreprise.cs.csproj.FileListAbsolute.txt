@@ -1,0 +1,15 @@
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\bin\Debug\net8.0\Entreprise.cs.exe
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\bin\Debug\net8.0\Entreprise.cs.deps.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\bin\Debug\net8.0\Entreprise.cs.runtimeconfig.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\bin\Debug\net8.0\Entreprise.cs.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\bin\Debug\net8.0\Entreprise.cs.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\obj\Debug\net8.0\Entreprise.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\obj\Debug\net8.0\Entreprise.cs.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\obj\Debug\net8.0\Entreprise.cs.AssemblyInfo.cs
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\obj\Debug\net8.0\Entreprise.cs.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\obj\Debug\net8.0\Entreprise.cs.sourcelink.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\obj\Debug\net8.0\Entreprise.cs.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\obj\Debug\net8.0\refint\Entreprise.cs.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\obj\Debug\net8.0\Entreprise.cs.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\obj\Debug\net8.0\Entreprise.cs.genruntimeconfig.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\Entreprise.cs\obj\Debug\net8.0\ref\Entreprise.cs.dll
