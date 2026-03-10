@@ -1,0 +1,15 @@
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\obj\Debug\net8.0\ExHeritage4_Vehicule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\obj\Debug\net8.0\ExHeritage4_Vehicule.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\obj\Debug\net8.0\ExHeritage4_Vehicule.AssemblyInfo.cs
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\obj\Debug\net8.0\ExHeritage4_Vehicule.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\obj\Debug\net8.0\ExHeritage4_Vehicule.sourcelink.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\bin\Debug\net8.0\ExHeritage4_Vehicule.exe
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\bin\Debug\net8.0\ExHeritage4_Vehicule.deps.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\bin\Debug\net8.0\ExHeritage4_Vehicule.runtimeconfig.json
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\bin\Debug\net8.0\ExHeritage4_Vehicule.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\bin\Debug\net8.0\ExHeritage4_Vehicule.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\obj\Debug\net8.0\ExHeritage4_Vehicule.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\obj\Debug\net8.0\refint\ExHeritage4_Vehicule.dll
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\obj\Debug\net8.0\ExHeritage4_Vehicule.pdb
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\obj\Debug\net8.0\ExHeritage4_Vehicule.genruntimeconfig.cache
+C:\Users\natha\Documents\.IMPORTANT_EXERCICE\Travaux_Nathan_6TTI\POO\.Devoir - Exercice\ExHeritage_Nathan\ExHeritage4_Vehicule\obj\Debug\net8.0\ref\ExHeritage4_Vehicule.dll

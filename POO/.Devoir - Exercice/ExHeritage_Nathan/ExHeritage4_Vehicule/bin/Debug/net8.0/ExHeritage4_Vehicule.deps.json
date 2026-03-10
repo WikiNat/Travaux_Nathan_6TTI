@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExHeritage4_Vehicule/1.0.0": {
+        "runtime": {
+          "ExHeritage4_Vehicule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExHeritage4_Vehicule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
