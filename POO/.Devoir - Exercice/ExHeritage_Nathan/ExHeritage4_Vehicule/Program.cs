@@ -59,7 +59,7 @@ namespace ExHeritage4_Vehicule
                         fuel = int.Parse(Console.ReadLine());
                         monGarage.Add(new Boat(tonnage, brand, fuel));
                         break;
-                    case "Garage":
+                    case "G":
                         for (int i = 0; i < monGarage.Count; i++)
                         {
                             // On accède au véhicule à la position [i]
